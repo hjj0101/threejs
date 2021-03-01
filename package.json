@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/hjj0101/threejs#readme",
   "dependencies": {
-    "three": "^0.116.1"
+    "three": "^0.125.0"
   }
 }
